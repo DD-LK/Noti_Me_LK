@@ -1,3 +1,5 @@
+## 1.0.2
+ *Issues fixed 
 ## 1.0.1
 
 * Updated repository and homepage links in `pubspec.yaml`.
