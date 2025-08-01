@@ -1,8 +1,8 @@
 name: audio_background
 description: "A Flutter plugin for seamless background audio playback on Android and iOS."
 version: 1.0.0
-homepage: https://github.com/your-username/audio_background
-repository: https://github.com/your-username/audio_background
+homepage: https://github.com/DD-LK/Noti_Me_LK/tree/main/audio_background
+repository: https://github.com/DD-LK/Noti_Me_LK/tree/main/audio_background
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
